@@ -1,0 +1,12 @@
+{
+  "name": "DayliPhoneRoutine",
+  "displayName": "DayliPhoneRoutine",
+  "expo": {
+    "name": "DayliPhoneRoutine",
+    "slug": "DayliPhoneRoutine",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
